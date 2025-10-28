@@ -16,7 +16,7 @@ function App() {
   const [backendReady, setBackendReady] = useState(false);
   const [status, setStatus] = useState(null);
 
-  // Check backend health
+  // Check backend health (is python backend is ready for service)
   useEffect(() => {
     const interval = setInterval(async () => {
       try {
@@ -55,6 +55,7 @@ function App() {
     }
   }, [backendReady]);
 
+  // show loading screen until backend is not ready or initiated
   if (!backendReady) {
     return <LoadingScreen />;
   }
