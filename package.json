@@ -1,0 +1,75 @@
+{
+  "name": "pin-detection",
+  "version": "0.1.0",
+  "private": true,
+  "main": "public/electron.js",
+  "homepage": "./",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.3.1",
+    "@mui/material": "^7.3.1",
+    "@mui/styled-engine-sc": "^7.3.1",
+    "@mui/utils": "^7.3.1",
+    "@react-pdf/renderer": "^4.3.1",
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/jest-dom": "^6.6.4",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.11.0",
+    "electron-is-dev": "^3.0.1",
+    "electron-squirrel-startup": "^1.0.1",
+    "file-saver": "^2.0.5",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.8.0",
+    "react-scripts": "5.0.1",
+    "react-webcam": "^7.2.0",
+    "react-webcam-qr-scanner": "^1.0.8",
+    "react-zxing": "^2.1.0",
+    "styled-components": "^6.1.19",
+    "web-vitals": "^2.1.4",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "electron-pack": "npm run build && electron-builder",
+    "package-win": "electron-packager . --overwrite --asar=true --platform=win32 --arch=x64 --icon=D:/Karan/React Tasks/user-management-app/public/favicon.ico --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"PinDetectionApplication\"",
+    "react-build": "react-scripts build",
+    "electron-dev": "concurrently \"npm run start\" \"wait-on http://localhost:3000 && electron .\"",
+    "dist": "npm run react-build && electron-builder",
+    "packager": "npm run build && electron-packager . \"Endoscopic Image Acquisition System\" --overwrite --asar --platform=win32 --arch=x64 --out=release-builds --icon=\"assets/icon.ico\" --prune=true --ignore=\"node_modules/fsevents\" --ignore=\"C# backend\""
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@electron-forge/plugin-auto-unpack-natives": "^7.9.0",
+    "@electron-forge/plugin-fuses": "^7.9.0",
+    "@electron/fuses": "^1.8.0",
+    "@types/file-saver": "^2.0.7",
+    "concurrently": "^9.2.1",
+    "electron": "^38.1.2",
+    "electron-packager": "^17.1.2",
+    "html5-qrcode": "^2.3.8",
+    "wait-on": "^8.0.5"
+  }
+}

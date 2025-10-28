@@ -1,0 +1,32 @@
+{
+    "parameter": {
+      "options": [
+        { "id": 1, "binNumber": "B0B5332D10066", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" },
+        { "id": 2, "binNumber": "B0B5332D10067", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "NG" },
+        { "id": 3, "binNumber": "B0B5332D10068", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" },
+        { "id": 4, "binNumber": "B0B5332D10069", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" },
+        { "id": 5, "binNumber": "B0B5332D10070", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "NG" },
+        { "id": 6, "binNumber": "B0B5332D10071", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" },
+        { "id": 7, "binNumber": "B0B5332D10072", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "NG" },
+        { "id": 8, "binNumber": "B0B5332D10073", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" },
+        { "id": 9, "binNumber": "B0B5332D10074", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" },
+        { "id": 10, "binNumber": "B0B5332D10075", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "NG" },
+        { "id": 11, "binNumber": "B0B5332D10076", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" },
+        { "id": 12, "binNumber": "B0B5332D10077", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" },
+        { "id": 13, "binNumber": "B0B5332D10078", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "NG" },
+        { "id": 14, "binNumber": "B0B5332D10079", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" },
+        { "id": 15, "binNumber": "B0B5332D10080", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" },
+        { "id": 16, "binNumber": "B0B5332D10081", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "NG" },
+        { "id": 17, "binNumber": "B0B5332D10082", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" },
+        { "id": 18, "binNumber": "B0B5332D10083", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "NG" },
+        { "id": 19, "binNumber": "B0B5332D10084", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" },
+        { "id": 20, "binNumber": "B0B5332D10085", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" },
+        { "id": 21, "binNumber": "B0B5332D10086", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "NG" },
+        { "id": 22, "binNumber": "B0B5332D10087", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" },
+        { "id": 23, "binNumber": "B0B5332D10088", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "NG" },
+        { "id": 24, "binNumber": "B0B5332D10089", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" },
+        { "id": 25, "binNumber": "B0B5332D10090", "image": "D:/EIAS/image/2025/10/01-10/QR Code Generator by TEC-IT_2025-10-01_11-31-00.jpg", "status": "OKAY" }
+      ]
+    }
+  }
+  
